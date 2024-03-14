@@ -35,5 +35,5 @@ main() {
   fi
   discr=$(calculate $a $b $c)
   analyse $discr
-
+}
 main "$@"
